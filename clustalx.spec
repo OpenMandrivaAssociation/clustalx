@@ -1,7 +1,7 @@
 Summary:	GUI interface for ClustalW
 Name:		clustalx
 Version:	2.0.10
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	Redistributable when non-commercial
 URL:		http://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
