@@ -1,7 +1,7 @@
 Summary:	GUI interface for ClustalW
 Name:		clustalx
 Version:	2.1
-Release:	%mkrel 1
+Release:	2
 License:	GPLv3 and LGPLv3
 URL:		http://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
