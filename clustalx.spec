@@ -3,7 +3,7 @@ Name:		clustalx
 Version:	2.1
 Release:	4
 License:	GPLv3 and LGPLv3
-URL:		http://www.clustal.org
+URL:		https://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 BuildRequires:	qt4-devel
 Source:		http://www.clustal.org/download/%{version}/clustalx-%{version}.tar.gz
