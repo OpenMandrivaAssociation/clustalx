@@ -5,6 +5,7 @@ Release:	4
 License:	GPLv3 and LGPLv3
 URL:		https://www.clustal.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
+BuildRequires:	make
 BuildRequires:	qt4-devel
 Source:		http://www.clustal.org/download/%{version}/clustalx-%{version}.tar.gz
 Group:		Sciences/Biology
